@@ -1,3 +1,0 @@
-example1.jpg
-example2.png
-example3.webp
